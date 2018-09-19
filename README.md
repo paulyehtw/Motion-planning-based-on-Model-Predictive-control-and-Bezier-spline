@@ -17,5 +17,7 @@ The speed of vehicle is considered, thus it can minimize the error using model p
 
 The pictures below show that the algorithm can plan a path according the starting/goal heading and steering.
 Also it can avoid obstacles and manage to return to Bezier spline as the reference path.
-The search tree is pruned due to the advantage of th Bezier spline.
+The search tree (green dotted lines) is pruned due to the advantage of th Bezier spline.
 
+![alt text](https://github.com/paulyehtw/Motion-planning-based-on-Model-Predictive-control-and-Bezier-spline/blob/master/Obstacle_Avoid.png)
+![alt text](https://github.com/paulyehtw/Motion-planning-based-on-Model-Predictive-control-and-Bezier-spline/blob/master/Search_Tree.png)
