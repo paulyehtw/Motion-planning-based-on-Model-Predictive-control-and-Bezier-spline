@@ -9,7 +9,7 @@ In this algorithm, the following factors are considered:
 4. Goal heading
 5. Grid size is 50mx50m
 
-Non-Holonomic feature of the vehicle is taken into consideraion, so the path is continuous instead of discrete in the
+Non-Holonomic feature of the vehicle is taken into consideraion, so the path is continuous and drivable instead of discrete in the
 conventinoal A* algorithm.
 
 Due to the usage of Bezier spline, no expand grid or heuristic layer is pre-computed, making it very efficient.
