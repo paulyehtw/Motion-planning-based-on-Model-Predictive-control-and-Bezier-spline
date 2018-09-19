@@ -12,7 +12,7 @@ In this algorithm, the following factors are considered:
 Non-Holonomic feature of the vehicle is taken into consideraion, so the path is continuous and drivable instead of discrete in the
 conventinoal A* algorithm.
 
-Due to the usage of Bezier spline, no expand grid or heuristic layer is pre-computed, making it very efficient.
+Due to the usage of Bezier spline, no expand grid or heuristic layer is pre-computed as in Hybrid A*, making it very efficient.
 
 The speed of vehicle is considered, thus it can minimize the error using model predictive control.
 
