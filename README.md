@@ -7,6 +7,7 @@ In this algorithm, the following factors are considered:
 2. Speed of the vehicle
 3. Start heading and steering angle
 4. Goal heading
+5. Grid size is 50mx50m
 
 Non-Holonomic feature of the vehicle is taken into consideraion, so the path is continuous instead of discrete in the
 conventinoal A* algorithm.
