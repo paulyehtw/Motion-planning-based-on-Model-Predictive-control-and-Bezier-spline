@@ -20,5 +20,12 @@ The pictures below show that the algorithm can plan a path according the startin
 Also it can avoid obstacles and manage to return to Bezier spline as the reference path.
 The search tree (green dotted lines) is pruned due to the advantage of th Bezier spline.
 
-![alt text](https://github.com/paulyehtw/Motion-planning-based-on-Model-Predictive-control-and-Bezier-spline/blob/master/Obstacle_Avoid.png)
-![alt text](https://github.com/paulyehtw/Motion-planning-based-on-Model-Predictive-control-and-Bezier-spline/blob/master/Search_Tree.png)
+<p align="center"><b>Obstacle avoidance</b></p>
+
+<p align="center">
+  <img  src="https://github.com/paulyehtw/Motion-planning-based-on-Model-Predictive-control-and-Bezier-spline/blob/master/Obstacle_Avoid.png">
+</p>
+<p align="center"><b>Search tree</b></p>
+<p align="center">
+  <img  src="https://github.com/paulyehtw/Motion-planning-based-on-Model-Predictive-control-and-Bezier-spline/blob/master/Search_Tree.png">
+</p>
